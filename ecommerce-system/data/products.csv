@@ -1,0 +1,10 @@
+type,id,name,price,description,stock,attr1,attr2,attr3
+ELECTRONICS,E001,Smartphone X,50000.00,Latest smartphone with 5G,50,TechBrand,24,
+ELECTRONICS,E002,Wireless Earbuds,4500.00,Noise cancelling earbuds,120,SoundMax,12,
+ELECTRONICS,E003,Laptop Pro 14,95000.00,14 inch laptop for developers,25,TechBrand,36,
+CLOTHING,C001,Cotton T-Shirt,1200.00,100% Cotton T-Shirt,100,M,Blue,Cotton
+CLOTHING,C002,Denim Jacket,3200.00,Regular fit denim jacket,40,L,Black,Denim
+CLOTHING,C003,Running Shorts,899.00,Lightweight training shorts,80,S,Grey,Polyester
+BOOK,B001,Java Programming,800.00,Learn Java from scratch,75,John Doe,978-3-16-148410-0,400
+BOOK,B002,Data Structures Made Easy,650.00,DSA concepts with examples,60,Jane Roy,978-1-23-456789-7,320
+BOOK,B003,Clean Code Basics,1100.00,Writing readable maintainable code,45,A K Sharma,978-0-11-223344-5,280
